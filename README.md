@@ -53,7 +53,12 @@
 
 ## Screenshots
 
+App screenshot
+
 <img src="pic1.png" style="width:800px">
+
+Output PDF example
+
 <img src="pic2.png" style="width:800px">
 
 ---
